@@ -1,0 +1,3 @@
+i := 1
+ui := uint16(2)
+fmt.Printf("i: %[1]v %[1]T ui: %[2] %[2]T\n", i, ui)

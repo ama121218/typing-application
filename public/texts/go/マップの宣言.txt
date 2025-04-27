@@ -1,0 +1,2 @@
+var m1 map[string]int
+m2 := map[string]int{}

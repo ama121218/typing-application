@@ -1,0 +1,5 @@
+m := map[string]int
+m["A"] = 10
+m["B"] = 20
+fmt.Printf("%v %v %v", m, len(m), m["A"])
+delete(m, "A")

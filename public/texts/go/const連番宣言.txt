@@ -1,0 +1,7 @@
+type Os int
+
+const(
+    Mac Os = iota + 1
+    Windows
+    Linux
+)

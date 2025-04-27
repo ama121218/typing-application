@@ -1,0 +1,2 @@
+fmt.Printf("%v", arr)
+fmt.Printf("%v %v", len(arr), cap(arr))

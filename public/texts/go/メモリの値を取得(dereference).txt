@@ -1,0 +1,4 @@
+i := uint16(1)
+var p *uint16
+p = &i
+fmt.Printf("%v", *p)
